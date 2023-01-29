@@ -1,0 +1,416 @@
+X0001
+Zaznacz najwcześniejszy krok w projektowaniu interakcji w podejściu UCD:
+a) Wybór standardów projektowych
+b) Określenie wymagań użytkowników
+c) Opracowanie koncepcji interakcji
+d) Określenie użytkowników
+
+X0001
+Diagram sekwencji skupia się na przedstawieniu komunikatów pomiędzy instancjami klasyfikatorów. Wybierz odpowiedź, która nie zawiera prawidłowego rodzaju klasyfikatora:
+a) Aktorzy 
+b) Interfejsy
+c) Klasy
+d) Zdarzenia
+
+X1000
+Na jakie kolory reagują czopki (światłoczułe receptory siatkówki oka), które są najmniej czułe:
+a) Niebieski i zielony
+b) Zielony i żółty
+c) Niebieski i fioletowy
+d) Żółty i czerwony
+
+X0001
+W modelu kaskadowym efektem fazy Analiza jest:
+a) Studium wykonywalności
+b) Opracowanie analityczne systemu
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagać, archutektura systemu
+
+X0010
+Cechą której techniki opisu zadań użytkownika jest następujące stwierdzenie "... niezbyt nadają się do opisu zadań równoległych i rozgałęzionych"
+a) Diagram przypadków użycia UML
+b) Mapy procesów
+c) Przypadki użycia w formie listy numerowanej
+d) Analiza HTA
+
+X0010
+Z ilu elementów U składa się obszar Użycia i kontekstu (ang. Use and Context) w modelu interakcji człowiek-komputer wg. ACM
+a) 2
+b) 4
+c) 3
+d) 1
+
+X0001
+Zaznacz błędną zasadę burzy mózgów
+a) nie ma złych pomysłów
+b) żadna z odpowiedzi nie jest błędna
+c) liczy się ilość a nie jakość
+d) myslimy szeroko stosując ograniczenia kontekstowe
+
+X0010
+Jaki typ oceny eksperckiej charakteryzuje się: "Ocena polega na predykcji zachowań użytkowników w określonej sytuacji opisanej ciągiem operacji..."
+a) Ocena analityczna
+b) Ocena heurystyczna
+c) Ocena przy pomocy modeli KLM i GOMS
+d) Oceny inspekcyjne
+
+X1000
+Którą zasadą z Dziesięciu heurystyk Nielsena jest zasada "Pomoc i dokumentacja"
+a) Zasada 10
+b) Zasada 8
+c) Zasada 9
+d) Zasada 6
+
+X0001
+W modelu życia oprogramowania V walidacja systemu realizowana jest na poziomie:
+a) Wymagania użytkowe - testowanie akceptacyjne
+b) Projekt architektury systemu - testowanie modułów
+c) Projekt szczegółowy - testowanie funkcji
+d) Wymagania systemowe - testowanie systemu
+
+X1000
+Zaznacz trzy naistotniejsze elementy definicji metodyki PRINCE II
+a) organizacja projektu - podejście bazujące na produktach - uzasadanienie biznesowe
+b) Żadna z odpowiedzi nie jest właściwa
+c) Organizacja projektu - podejście bazujące na klientach - uzasadnienie biznesowe
+d) Organizacja projektu - podejście bazujące na produktach - podejście procesowe
+
+X0100
+Mapa empatii zawiera następujące elementy:
+a) mówi - myśli - planuje - realizuje
+b) mówi - myśli - robi - czuje
+c) sądzi - robi - czuje - planuje
+d) sądzi - planuje - czuje
+
+X0010
+Zaznacz typ prototypu, który spośród wymienionych charakteryzuje się najmniejszą szczegółowością i interaktywnością
+a) "czarnoksiężnik z Oz"
+b) Storyboard
+c) Szkice
+d) projekty graficzne
+
+X0010
+W modelu kaskadowym cykl życia oprogramowania po etapie Analiza 
+a) Planowanie
+b) Żadna
+c) Projektowanie
+d) Określenie wymagań
+
+X1000
+W jakim przypadku zaleca się złamanie zasady wyrównywania tekstu?:
+a) Występowanie znaków interpunkcyjnych wyłącznie na końcu linii
+b) Wystąpienie wyłącznie następujących znaków :kropka przecinek cudzysłów
+c) Wyst. Znaków interpunkcyjnych na początku i na końcu linii
+d) żaden
+
+X1000
+Wybierz technikę opisu i analizy zadań użytkownika który charakteryzuje się  dekompozycja zadań użytkownika na sekwencje poszczególnych operacji :
+a) HTA - hierarchical task analysis
+b) Przypadki użycia ISO
+c) Scenariusze użycia
+d) Mapy procesów
+
+X0100
+W której fazie realizacji projektu UCD stosuje się iteracyjne podejście :
+a) Wdrożenie
+b) Prace rozwojowe
+c) Żadna
+d) Analiza kontekstowa
+
+X0010
+W badaniach użyteczności z udziałem użytkowników scenariusz jest elementem :
+a) Metody oceny
+b) Celu
+c) Listy zadań 
+d) metodologii
+
+X0010
+Wybierz diagram UML który traktuje proces jako automat skończony :
+a) diagram przypadków użycia 
+b) diagram sekwencji
+c) diagram stanów
+d) diagram czynności
+
+X0001
+Zaznacz element który nie jest częścią metody PRINCE II
+a) procesy
+b) tematy
+c) zasady/pryncyple
+d) czynności
+
+X0001
+W modelu V cykl życia oprogramowania , weryfikacja kodu łączy następujące elementy strumienia:
+a) projekt architektury i testowanie modułów 
+b) projekt szczegółowy i kodowanie
+c) projekt szczegółowy i testowanie kodu
+d) projekt szczegółowy i testowanie funkcji
+
+X0001
+Druga zasada heurystyk Nielsena:
+a) poczucie kontroli i swoboda działania
+b) widoczność stanu systemu 
+c) spójność i standardy
+d) dopasownaie pomiędzy systemem a światem rzeczywistym 
+
+X1000
+Proces Design Thinking:
+a) Empatia - Diagnoza potrzeb - Generowanie pomysłów - Prototypowanie - Prezentacja i testowanie
+b) Analiza - Burza mozgów - Kodowanie - Prezentacja 
+c) Planowanie - Analiza - Projektowanie - Implementacja - Testowanie - Konserwacja
+d) Diagnoza potrzeb - Empatia - Generowanie pomysłów - Implementacja - Prezentacja i testowanie
+
+X1000
+W modelu kaskadowym cykl życia oprogramowania po etapie Planowanie
+a) Analiza
+b) Testowanie
+c) Projektowanie
+d) Implementacja
+
+X0001
+W modelu kaskadowym cykl życia oprogramowania po etapie Projektowanie
+a) Analiza
+b) Testowanie
+c) Projektowanie
+d) Implementacja
+
+X0100
+W modelu kaskadowym cykl życia oprogramowania po etapie Implementacja
+a) Analiza
+b) Testowanie
+c) Projektowanie
+d) Konserwacja
+
+X0100
+W modelu kaskadowym cykl życia oprogramowania po etapie Testowanie
+a) Analiza
+b) Konserwacja
+c) Projektowanie
+d) Implementacja
+
+X1000
+W modelu kaskadowym efektem fazy Planowanie jest:
+a) Studium wykonywalności
+b) Programowanie i uruchomianie
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagań, architektura systemu
+
+X0001
+W modelu kaskadowym efektem fazy Analiza jest:
+a) Studium wykonywalności
+b) Programowanie i uruchomianie
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagań, architektura systemu
+
+X0010
+W modelu kaskadowym efektem fazy Projektowanie jest:
+a) Studium wykonywalności
+b) Programowanie i uruchomianie
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagań, architektura systemu
+
+X0100
+W modelu kaskadowym efektem fazy Implementacja jest:
+a) Studium wykonywalności
+b) Programowanie i uruchomianie
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagań, architektura systemu
+
+X000010
+W modelu kaskadowym efektem fazy Testowanie jest:
+a) Studium wykonywalności
+b) Programowanie i uruchomianie
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagań, architektura systemu
+e) Testy systemu
+f) Specyfikacja funkcjonalna
+
+X000001
+W modelu kaskadowym efektem fazy Konserwacja jest:
+a) Studium wykonywalności
+b) Programowanie i uruchomianie
+c) Szczegółowy projekt systemu
+d) Specyfikacja wymagań, architektura systemu
+e) Testy systemu
+f) Modyfikacja, zmiany i rozszerzenia
+
+X1000
+W modelu życia oprogramowania V walidacja przez użytkownika realizowana jest na poziomie:
+a) Wymagania użytkowe - testowanie akceptacyjne
+b) Projekt architektury systemu - testowanie modułów
+c) Projekt szczegółowy - testowanie funkcji
+d) Wymagania systemowe - testowanie systemu
+
+X0100
+W modelu życia oprogramowania V weryfikacja podsystemów realizowana jest na poziomie:
+a) Wymagania użytkowe - testowanie akceptacyjne
+b) Projekt architektury systemu - testowanie modułów
+c) Projekt szczegółowy - testowanie funkcji
+d) Wymagania systemowe - testowanie systemu
+
+X0010
+W modelu życia oprogramowania V weryfikacja kodu realizowana jest na poziomie:
+a) Wymagania użytkowe - testowanie akceptacyjne
+b) Projekt architektury systemu - testowanie modułów
+c) Projekt szczegółowy - testowanie funkcji
+d) Wymagania systemowe - testowanie systemu
+
+X0001
+Pierwsza z 10 heurystyk Nielsena
+a) Pomóż użytkownikowi rozpoznawać, diagnozować, radzić sobie z błędami
+b) Dostosuj system do świata rzeczywistego
+c) Elastyczność i wydajność
+d) Widoczność stanu systemu
+
+X0100
+Druga z 10 heurystyk Nielsena
+a) Pomóż użytkownikowi rozpoznawać, diagnozować, radzić sobie z błędami
+b) Dostosuj system do świata rzeczywistego
+c) Elastyczność i wydajność
+d) Widoczność stanu systemu
+
+X0010
+Trzecia z 10 heurystyk Nielsena
+a) Pomóż użytkownikowi rozpoznawać, diagnozować, radzić sobie z błędami
+b) Dostosuj system do świata rzeczywistego
+c) Kontrol użytkownika i swoboda
+d) Widoczność stanu systemu
+
+X0001
+Czwarta z 10 heurystyk Nielsena
+a) Pomóż użytkownikowi rozpoznawać, diagnozować, radzić sobie z błędami
+b) Dostosuj system do świata rzeczywistego
+c) Elastyczność i wydajność
+d) Spójność i standardy
+
+X1000
+Piąta z 10 heurystyk Nielsena
+a) Ostrzeganie przed błędami
+b) Dostosuj system do świata rzeczywistego
+c) Elastyczność i wydajność
+d) Widoczność stanu systemu
+
+X0010
+Szósta z 10 heurystyk Nielsena
+a) Pomóż użytkownikowi rozpoznawać, diagnozować, radzić sobie z błędami
+b) Dostosuj system do świata rzeczywistego
+c) Rozponawanie a nie przypominanie
+d) Widoczność stanu systemu
+
+X0010
+Siódma z 10 heurystyk Nielsena
+a) Pomóż użytkownikowi rozpoznawać, diagnozować, radzić sobie z błędami
+b) Dostosuj system do świata rzeczywistego
+c) Elastyczność i wydajność
+d) Widoczność stanu systemu
+
+X1000
+Ósma z 10 heurystyk Nielsena
+a) Estetycznie i oszczędnie
+b) Dostosuj system do świata rzeczywistego
+c) Elastyczność i wydajność
+d) Widoczność stanu systemu
+
+X0100
+Dziewiąta z 10 heurystyk Nielsena
+a) Kontrol użytkownika i swoboda
+b) Pomoz uzytkownikowi w rozpoznawaniu, diagnozowaniu i poprawianiu bledow
+c) Estetycznie i oszczędnie
+d) Widoczność stanu systemu
+
+X1000
+Poziomy modelu CMMI:
+a) Początkowy - Powtarzalny - Zdefiniowany - Zarządzany - Optymalizujący
+b) Inicjujący - Powtarzający - Opisany - Zarządzany - Optymalny
+c) Początkowy - Zdefiniowany - Zapamiętany - Optymalizujący
+d) Początkowy -Powtarzalny - Zarządzany - Zdefiniowany - Optymalizujący
+
+X0010
+Z ilu elementów H składa się obszar ludzki (ang. Human) w modelu interakcji człowiek-komputer wg. ACM
+a) 2
+b) 4
+c) 3
+d) 1
+
+X0010
+Z ilu elementów C składa się obszar komputera (ang. Computer) w modelu interakcji człowiek-komputer wg. ACM
+a) 2
+b) 4
+c) 5
+d) 1
+
+X0100
+Z ilu elementów D składa się obszar procesu rozwoju (ang. development process) w modelu interakcji człowiek-komputer wg. ACM
+a) 2
+b) 4
+c) 3
+d) 1
+
+X000001
+Diagram sekwencji skupia się na przedstawieniu komunikatów pomiędzy instancjami klasyfikatorów. Wybierz odpowiedź, która nie zawiera prawidłowego rodzaju klasyfikatora:
+a) Przypadki użycia
+b) Interfejsy
+c) Klasy
+d) Pakiety
+e) Komponenty
+f) Stany
+
+X00000100
+Wybierz odpowiedź która zawiera diagram który nie może być przedstawiony za pomocą notacji UML:
+a) Diagram czynności
+b) Diagram stanów
+c) Diagram sekwencji
+d) Diagram czasowy
+e) Diagram przypadków użycia
+f) Diagram funkcyjny
+g) Diagram komunikacji
+h) Diagram przeglądu interakcji
+
+X1000
+W diagramie sekwencji wyróżniamy następujące rodzaje komunikatów:
+a) asynchroniczny synchroniczny zwrotny akcja samowywłowanie
+b) semisynchroniczny zwrotny bezzwrotny wywoławczy
+c) asynchroniczny synchroniczny bezzwrotny użytkowy
+d) odwoławczy synchroniczny asynchroniczny zwrotny samowywołanie
+
+X0010
+Elementy modelu spiralnego:
+a) Planowanie Projektowanie Analiza Testowanie
+b) Planowanie Projektowanie Implementacja Prezentacja
+c) Planowanie Analiza ryzyka Konstrukcja Atestowanie
+d) Analizowanie Projektowanie Konstrukcja Konserwacja
+
+X1000
+Rodzaje wymagań:
+a) ogólne, funkcjonalne, niefunkcjonalne, ograniczenia środowiska systemu, projektowo-wdrożeniowe
+b) podstawowe, ogólne, szczegółowe, środowiskowe
+c) funkcjonalne, niefunkcjonalne, budżetowe, projektowe
+d) ogólne, klienckie, projektowe, wdrożeniowe, własne
+
+X0100
+W procesie Design Thinking narzędziami etapu Diagnozy Potrzeb są:
+a) moodboard, mapa empatii, drabina potrzeb
+b) drabina potrzeb, punkt widzenia
+c) burza mózgów, analiza zwyczajów, persona
+d) persona, moodboard, mapa empatii
+
+X1000
+Zasady grupowania percepcyjnego (gestalt principles) wywodzące się z psychologii postaci to:
+a) podobieństwo, bliskość, symetria, figura/tło, doświadczenie(przyzwyczajenie, domknięcie, kontynuacja)
+b) symetria, asymetria, jasność, kontrast
+c) bliskość, podobieństwo, układ, skala kolorów
+d) kompozycja, kontrast, symetria, bliskość, tło
+
+X0001
+Projektowanie UCD ma wytworzyć produkt o czterech głównych charakterystykach:
+a) doświadczenie użytkownika (UX), funkcjonalność, czas działania, responsywność
+b) symetria, czas działania, funkcjonalność, wartość
+c) efektywność, użytkowość, funkcjonalność, estetyka
+d) funkcjonalność, użyteczność, wartość, doświadczenie użytkownika (UX)
+
+X00001
+Która odpowiedź nie jest etapem projektowania UCD:
+a) Identyfikacja potrzeb i określenie wymagań
+b) Ocena prototypów przez użytkowników
+c) Budowa interaktywnych prototypów
+d) Opracownaie projektu koncepcyjnego
+e) Analiza wymagań funkcjonalnych
