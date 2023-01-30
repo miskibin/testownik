@@ -1,10 +1,11 @@
 # tester
 
 Simple app for taking quizzes. You can create your own quizzes. 
-mechanisms:
-- choosing number of questions in quiz.
+
+## featurs:
+- variable number of questions in quiz.
 - deciding if quesion is mastered or not. (if not, it will be asked again)
-- multiple choice questions supported.
+- multiple choice answers supported.
 - Console version of app. 
 - support for light and dark theme. (Will be automatically set based on system theme)
 ## example images of app. 
