@@ -61,6 +61,7 @@ class App(ft.UserControl):
                                 # alignment=ft.alignment.bottom_right,
                                 expand=True,
                                 height=WINDOW_HEIGHT // 1.9,
+                                width=WINDOW_WIDTH // 4,
                             ),
                         ],
                         alignment="spaceBetween",
@@ -185,7 +186,7 @@ class App(ft.UserControl):
                 ft.Text("Correct!", size=40),
                 ft.IconButton(
                     icon=ft.icons.ARROW_RIGHT_ALT,
-                    icon_size=60,
+                    icon_size=90,
                     on_click=self.go_forward,
                     icon_color="blue600",
                 ),
@@ -237,7 +238,7 @@ class App(ft.UserControl):
                 ft.IconButton(
                     icon=ft.icons.LOOP,
                     on_click=self.close_dialog,
-                    icon_size=60,
+                    icon_size=80,
                     icon_color="blue600",
                 ),
             ],
@@ -320,16 +321,14 @@ def main(page: ft.Page):
     page.window_height = WINDOW_HEIGHT
     page.window_min_height = WINDOW_HEIGHT
     page.window_min_width = WINDOW_WIDTH
-    page.title = "Sobecki testownik"
-    model = Model(number_of_questions=NUMBER_OF_QUESTIONS)
+    page.title = "testownik"
+    model = Model()
     app = App(model)
     page.add(app)
     page.dialog = app.number_of_questions_dialog
     page.dialog.open = True
     page.update()
 
-
-NUMBER_OF_QUESTIONS = None
 
 if __name__ == "__main__":
     # number_of_questions  ile pytan ma byc w sumie w quizie
