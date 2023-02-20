@@ -2,7 +2,7 @@
 
 Simple app for taking quizzes. You can create your own quizzes. 
 
-## featurs:
+## features:
 - variable number of questions in quiz.
 - deciding if quesion is mastered or not. (if not, it will be asked again)
 - multiple choice answers supported.
