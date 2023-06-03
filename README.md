@@ -1,6 +1,10 @@
-# tester
+# tester app
 
 Simple app for taking quizzes. You can create your own quizzes. 
+
+# Installation 
+1. Download app from release page
+2. download [combined.txt](./combined.txt) file and put it in the same directory as main app.
 
 ## features:
 - variable number of questions in quiz.
