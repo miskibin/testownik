@@ -422,8 +422,6 @@ b)5-6
 c)3-4
 d)7-8
 
-
-
 X0100
 Która część w oku odpowiada za widzenie kolorów:
 a) preciki
@@ -431,16 +429,12 @@ b) czopki
 c) zolta plama
 d) rogowka
 
-
-
 X1000
 Przykładem manipulacji bezpośredniej sa:
 a) formularz, interfejs, bezpośrednia manipulacja graficzna
 b) linia komend, tekst w języku naturalnym
 c) interakcja oparta o menu, pytania i odpowiedzi, klawiszy funkcyjnych, komendy glosowe
 d) poruszanie sie w wybranym kierunku, ogladanie obiektow z roznych stron, manipulowanie obiektami
-
-
 
 X00010
 Linia komend (terminal) to przykład stylu interakcji:
@@ -450,16 +444,12 @@ c) naturalny interfejs uzytkownika (NUI)
 d) lingwistyczny
 e) wirtualnej rzeczywistosci
 
-
-
 X1000
 W jakim przypadku zaleca sie zlamanie zasady wyrownywania tekstu:
 a) wystepowanie znakow interpunkcyjnych na poczatku i na koncu linii
 b) wystepowanie znakow interpunkcyjnych na poczatku linii
 c) wystepowanie znakow interpunkcyjnych na koncu linii
 d) wystepowanie znakow interpunkcyjnych na poczatku lub na koncu linii
-
-
 
 X0100
 Test Sikorskiego - jaki jest maksymalny czas trwania testow z uzytkownikiem wg Sikorskiego:
@@ -468,16 +458,12 @@ b) 90min
 c) 60min
 d) 75min
 
-
-
 X0010
 Jaka zasada mowi ze strona powinna byc podzielona na ograniczona (7 +/-2) liczbe sekcji:
 a) unikanie zbednych nowinek technologicznych
 b) skanowanie - czytelnosc strony
 c) dzielenie
 d) pisanie w stylu odwroconej piramidy
-
-
 
 X00010
 Co nalezy do grupy prototypow wstepnych:
@@ -487,16 +473,12 @@ c) cos jeszcze
 d) nie ma poprawnej odpowiedzi 
 e) uwielbiam szczegolowosc odpowiedzi ktore sa w tym pliku
 
-
-
 X0100
 Z ktorego ISO wywodzi sie UCD:
 a) ISO 9126
 b) ISO 13407
 c) ISO 2137
 d) ISO 9242
-
-
 
 X1000
 Co oznacza skrot UCD:
@@ -505,16 +487,12 @@ b) Urząd Centralny Dziekana
 c) Unique Creative Design
 d) Unified Common Design
 
-
-
 X0010
 Ktora norma ISO dotycząca UCD jest roszerzeniem dawnej formy ISO 13407:
 a) ISO 9123-213
 b) ISO 13408-137
 c) ISO 9241-210
 d) ISO 9420-12
-
-
 
 X0010
 Co oznacza AOI w eye trackingu:
@@ -523,15 +501,11 @@ b) Area of Effect
 c) Area of Interest
 d) Andrzej oddaj internet
 
-
-
 X010
 Wedle prawa Fittsa czas znalezienia celu jest dłuższy gdy:
 a) odległość od celu jest mała
 b) cel jest wezszy
 c) cel jest szerszy
-
-
 
 X0100
 Jaki kąt stanowi widzenie centralne użytkownika:
@@ -540,16 +514,12 @@ b) 2
 c) 5
 d) 10
 
-
-
 X0100
 Krótkie i rozroznialne hiperlacze od tresci strony to ktora dodatkowa zasada nielsena:
 a) unikanie zbednych nowinek technologicznych
 b) skanowanie
 c) dzielenie
 d) pisanie w stylu odwroconej piramidy
-
-
 
 X1000
 Gdzie jest skupione oko w trakcie sakkady:
@@ -558,16 +528,12 @@ b) w czesciach okolo centralnych
 c) w czesciach peryferyjnych
 d) brak odpowiedzi poprawnej
 
-
-
 X1000
 Dla jakich kolorów kontrast jest najwiekszy:
 a) czarno-bialy
 b) zolto-fioletowy
 c) czerwono-zielony
 d) zadne z powyzszych
-
-
 
 X0010
 Z jakiej dziedziny nauki wywodzi się pojęcie człowiek-maszyna-środowisko:
