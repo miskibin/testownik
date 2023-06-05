@@ -9,7 +9,6 @@ ITERATION = 0
 
 class App(ft.UserControl):
     def __init__(self, model: Model = Model(), question: TestCase = None):
-
         super().__init__()
         self.model = model
         self.question = question
@@ -234,7 +233,15 @@ class App(ft.UserControl):
                     disabled=True,
                     icon_color="red",
                 ),
-                ft.Text("WRONG!", size=40),
+                ft.Column(
+                    [
+                        ft.Text("WRONG!", size=40),
+                        ft.Text(
+                            f"correct: {self.question.answers[self.question.correct_answer]}",
+                            size=15,
+                        ),
+                    ]
+                ),
                 ft.IconButton(
                     icon=ft.icons.LOOP,
                     on_click=self.close_dialog,
