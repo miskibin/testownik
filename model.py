@@ -93,7 +93,7 @@ class Model:
                     answers.append(line.strip()[3:])
         # random choice of questions
         if self.number_of_questions:
-            questions = np.random.choice(questions, self.number_of_questions)
+            questions = random.choices(questions, k=self.number_of_questions)
         return questions
 
     def __parse_correct_answer(self, correct_answer: str) -> int:
