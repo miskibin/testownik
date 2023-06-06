@@ -1,7 +1,7 @@
 from pathlib import Path
 from miskibin import get_logger
 import codecs
-import numpy as np
+import random
 import os
 from typing import Generator
 
@@ -56,7 +56,6 @@ class TestCase:
 
 class Model:
     def __init__(self, number_of_questions=None, data_dir: Path = Path(".")) -> None:
-
         self.logger = get_logger("Model", lvl="DEBUG", format="%(message)s")
         self.number_of_questions = number_of_questions
         self.data_file = data_dir / "combined.txt"
@@ -139,11 +138,11 @@ class Model:
 
     def question_generator(self) -> Generator[TestCase, None, None]:
         while True:
-            idx = np.random.randint(0, len(self.questions))
+            idx = random.randint(0, len(self.questions))
             if self.mastered_questions >= len(self.questions):
                 break
             while self.questions[idx].is_mastered:
-                idx = np.random.randint(0, len(self.questions))
+                idx = random.randint(0, len(self.questions))
             yield self.questions[idx]
 
 
