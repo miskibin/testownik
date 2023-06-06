@@ -1,3 +1,2 @@
 miskibin
 flet
-numpy

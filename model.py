@@ -138,7 +138,7 @@ class Model:
 
     def question_generator(self) -> Generator[TestCase, None, None]:
         while True:
-            idx = random.randint(0, len(self.questions))
+            idx = random.randint(0, len(self.questions) - 1)
             if self.mastered_questions >= len(self.questions):
                 break
             while self.questions[idx].is_mastered:
