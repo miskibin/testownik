@@ -1,11 +1,12 @@
 import flet as ft
 from model import Model, TestCase
-
+from miskibin import get_logger
 WINDOW_WIDTH = 1000
 WINDOW_HEIGHT = 650
 
 ITERATION = 0
 
+logger = get_logger(predefined='simple')
 
 class App(ft.UserControl):
     def __init__(self, model: Model = Model(), question: TestCase = None):
@@ -152,7 +153,7 @@ class App(ft.UserControl):
         else:
             print("Please select only one answer")
             return
-        print(f"Correct answer: {self.question.correct_answer}, your answer: {idx}")
+        logger.info(f"Correct answer: {self.question.correct_answer}, your answer: {idx} mastered {self.model.mastered_questions}")
         if idx == self.question.correct_answer:
             e.page.dialog = self.correct_dialog
             self.question._correct_anwsered += 1
@@ -299,13 +300,17 @@ class App(ft.UserControl):
         # check if there is next question
         try:
             self.question = next(self.model.question_generator)
+            logger.warning(f'mastered questions: {self.model.mastered_questions}')
+            for q in self.model.questions:
+                if q.is_mastered:
+                    print((q.question))
         except StopIteration:
             page.dialog = self.end_dialog
             page.dialog.open = True
             page.update()
             return
         page.controls.pop()
-        page.controls.append(App(self.model, self.question))
+        page.controls.append(App(self.model))
         page.update()
 
     def build(self):

@@ -49,7 +49,7 @@ class TestCase:
     @property
     def is_mastered(self) -> bool:
         try:
-            return self._correct_anwsered / self._tried > 0.7 and self._tried > 1
+            return self._correct_anwsered / self._tried > 0.7 
         except ZeroDivisionError:
             return False
 
@@ -93,7 +93,7 @@ class Model:
                     answers.append(line.strip()[3:])
         # random choice of questions
         if self.number_of_questions:
-            questions = random.choices(questions, k=self.number_of_questions)
+            questions = random.sample(questions, k=self.number_of_questions)
         return questions
 
     def __parse_correct_answer(self, correct_answer: str) -> int:
