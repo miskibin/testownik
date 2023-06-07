@@ -93,7 +93,8 @@ class Model:
                     answers.append(line.strip()[3:])
         # random choice of questions
         if self.number_of_questions:
-            questions = random.sample(questions, k=self.number_of_questions)
+            questions = list(random.sample(questions, k=self.number_of_questions))
+        self.logger.info(f'number of questions: {len(questions)}')
         return questions
 
     def __parse_correct_answer(self, correct_answer: str) -> int:
@@ -138,11 +139,12 @@ class Model:
 
     def question_generator(self) -> Generator[TestCase, None, None]:
         while True:
+            
             idx = random.randint(0, len(self.questions) - 1)
             if self.mastered_questions >= len(self.questions):
                 break
             while self.questions[idx].is_mastered:
-                idx = random.randint(0, len(self.questions))
+                idx = random.randint(0, len(self.questions) - 1)
             yield self.questions[idx]
 
 
