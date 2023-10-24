@@ -1,5 +1,5 @@
 from pathlib import Path
-from miskibin import get_logger
+from easy_logs import get_logger
 import codecs
 import random
 import os
@@ -49,7 +49,7 @@ class TestCase:
     @property
     def is_mastered(self) -> bool:
         try:
-            return self._correct_anwsered / self._tried > 0.7 
+            return self._correct_anwsered / self._tried > 0.7
         except ZeroDivisionError:
             return False
 
@@ -94,7 +94,7 @@ class Model:
         # random choice of questions
         if self.number_of_questions:
             questions = list(random.sample(questions, k=self.number_of_questions))
-        self.logger.info(f'number of questions: {len(questions)}')
+        self.logger.info(f"number of questions: {len(questions)}")
         return questions
 
     def __parse_correct_answer(self, correct_answer: str) -> int:
@@ -139,7 +139,6 @@ class Model:
 
     def question_generator(self) -> Generator[TestCase, None, None]:
         while True:
-            
             idx = random.randint(0, len(self.questions) - 1)
             if self.mastered_questions >= len(self.questions):
                 break
